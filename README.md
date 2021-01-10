@@ -2,7 +2,7 @@
 
 #### _Fisher Price My First Website_
 
-#### By _**Cat Denton, Carlos Esquiza**_
+#### By _**Cat Denton, Carlos Urquiza**_
 
 ## Technologies Used
 
